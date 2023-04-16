@@ -1,2 +1,39 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=10864977&assignment_repo_type=AssignmentRepo)
-![readme_0](https://user-images.githubusercontent.com/108839778/231943345-2d2e0dc6-0adc-4be7-90c7-77cb4a792d24.jpg)
+# TRABAJO PRÁCTICO N°1 GRUPO (5)
+
+## Integrantes del equipo:
+- [Alfredo Palacios](https://github.com/alfredop37)
+- [Alejandro Leyton](https://github.com/leytonale)
+- [Rodolfo Paz](https://github.com/domi74)
+- [María Lilén Guzman](https://github.com/lilenguzman01)
+- [William Leyton](https://github.com/wleyton89)
+- [Enrique Ripoli](https://github.com/enriqueripoli)
+
+## Descripción del proyecto
+En este proyecto se desarrollarán las prácticas correspondientes al módulo I: Protocolo de Comunicaciones de la Tecnicatura Superior en Telecomunicaciones del ISPC.
+## Cuestionario 
+
+1) Nombre, describa y grafique las capas OSI.
+2) ¿Cómo se comunican los dispositivos IoT?, Esquematizar y ejemplificar.
+3) Ejemplifique que son dispositivos IoT
+4) ¿Qué tecnologías han hecho posible el IoT menciona 5 ejemplos?
+5) ¿Qué es la comunicación de datos en serie?, describa su funcionamiento
+6) ¿Cuáles son los protocolos serie más usados?, nombre 3 y descríbalos.
+7) ¿Qué es la comunicación de datos en paralelo? Describa su
+funcionamiento.
+8) ¿Cuáles son los protocolos paralelo más usados?, nombre alguno y
+descríbalo.
+
+## Estructura del repositorio
+El repositorio se estructura de la siguiente manera:
+- `README.md`: archivo que contiene la descripción del proyecto y la información sobre los integrantes del equipo.
+- `bibliografia`: carpeta que contiene la bibliografía consultada para la realización del trabajo práctico.
+- `1-capas_OSI`: carpeta que contiene la respuesta a la pregunta sobre las capas OSI.
+- `2-comunicacion_IoT`: carpeta que contiene la respuesta a la pregunta sobre la comunicación de dispositivos IoT.
+- `3-dispositivos_IoT`: carpeta que contiene la respuesta a la pregunta sobre ejemplos de dispositivos IoT.
+- `4-tecnologias_IoT`: carpeta que contiene la respuesta a la pregunta sobre las tecnologías que han hecho posible el IoT.
+- `5-comunicacion_serie`: carpeta que contiene la respuesta a la pregunta sobre la comunicación de datos en serie.
+- `6-protocolos_serie`: carpeta que contiene la respuesta a la pregunta sobre los protocolos serie más usados.
+- `7-comunicacion_paralelo`: carpeta que contiene la respuesta a la pregunta sobre la comunicación de datos en paralelo.
+- `8-protocolos_paralelo`: carpeta que contiene la respuesta a la pregunta sobre los protocolos paralelo más usados.
+
+## Bibliografía

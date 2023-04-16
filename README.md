@@ -45,4 +45,5 @@ El repositorio se estructura de la siguiente manera:
 - Redeweb. [11 redes inalámbricas fundamentales para Internet de las cosas](https://www.redeweb.com/articulos/software/11-redes-inalambricas-fundamentales-para-internet-de-las-cosas/).
 - Red Hat. [¿Qué es IoT?](https://www.redhat.com/es/topics/internet-of-things/what-is-iot).
 - Aerlyper. [Ejemplos de Internet de las cosas (IoT) en la vida diaria](https://aerlyper.es/ejemplos-internet-de-las-cosas/).
+- Serial Port Monitor [Comunicación serial: Todo lo que necesitas saber](https://www.serial-port-monitor.org/es/articles/serial-communication/) 
 

@@ -25,6 +25,7 @@ descríbalo.
 
 ## Estructura del repositorio
 El repositorio se estructura de la siguiente manera:
+- `Actividad N°1`: Archivo que contiene las instrucciones a realizar para las actividades.
 - `README.md`: archivo que contiene la descripción del proyecto y la información sobre los integrantes del equipo.
 - `bibliografia`: carpeta que contiene la bibliografía consultada para la realización del trabajo práctico.
 - `1-capas_OSI`: carpeta que contiene la respuesta a la pregunta sobre las capas OSI.

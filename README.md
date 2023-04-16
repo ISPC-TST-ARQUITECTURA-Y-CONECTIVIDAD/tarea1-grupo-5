@@ -28,13 +28,13 @@ El repositorio se estructura de la siguiente manera:
 - `Actividad N°1`: Archivo que contiene las instrucciones a realizar para las actividades.
 - `README.md`: archivo que contiene la descripción del proyecto y la información sobre los integrantes del equipo.
 - `bibliografia`: carpeta que contiene la bibliografía consultada para la realización del trabajo práctico.
-- `1-capas_OSI`: carpeta que contiene la respuesta a la pregunta sobre las capas OSI.
-- `2-comunicacion_IoT`: carpeta que contiene la respuesta a la pregunta sobre la comunicación de dispositivos IoT.
-- `3-dispositivos_IoT`: carpeta que contiene la respuesta a la pregunta sobre ejemplos de dispositivos IoT.
-- `4-tecnologias_IoT`: carpeta que contiene la respuesta a la pregunta sobre las tecnologías que han hecho posible el IoT.
-- `5-comunicacion_serie`: carpeta que contiene la respuesta a la pregunta sobre la comunicación de datos en serie.
-- `6-protocolos_serie`: carpeta que contiene la respuesta a la pregunta sobre los protocolos serie más usados.
-- `7-comunicacion_paralelo`: carpeta que contiene la respuesta a la pregunta sobre la comunicación de datos en paralelo.
-- `8-protocolos_paralelo`: carpeta que contiene la respuesta a la pregunta sobre los protocolos paralelo más usados.
+- `1-capas-OSI`: carpeta que contiene la respuesta a la pregunta sobre las capas OSI.
+- `2-comunicacion-IoT`: carpeta que contiene la respuesta a la pregunta sobre la comunicación de dispositivos IoT.
+- `3-dispositivos-IoT`: carpeta que contiene la respuesta a la pregunta sobre ejemplos de dispositivos IoT.
+- `4-tecnologias-IoT`: carpeta que contiene la respuesta a la pregunta sobre las tecnologías que han hecho posible el IoT.
+- `5-comunicacion-serie`: carpeta que contiene la respuesta a la pregunta sobre la comunicación de datos en serie.
+- `6-protocolos-serie`: carpeta que contiene la respuesta a la pregunta sobre los protocolos serie más usados.
+- `7-comunicacion-paralelo`: carpeta que contiene la respuesta a la pregunta sobre la comunicación de datos en paralelo.
+- `8-protocolos-paralelo`: carpeta que contiene la respuesta a la pregunta sobre los protocolos paralelo más usados.
 
 ## Bibliografía
